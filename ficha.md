@@ -1,7 +1,7 @@
-nombre y apellido: Martín René Vilugróñ
+nombre y apellido: Martín René Vilugrón
 
 matricula: No sé, no tengo LOL
 
-correo electrónico: mrvilugron@unrn.edu.ar
+correo electrónico: ya la conocen.
 
 usuario github: martinvilu
